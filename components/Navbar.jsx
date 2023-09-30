@@ -17,7 +17,7 @@ const Navbar = () => (
     >
       <img src="/search.svg" alt="search" className="w-[24px] h-[24px] object-contain cursor-pointer" />
       <h2 className="font-extrabold text-[24px] leading-[30px] text-white uppercase">metaversus</h2>
-      <img src="/menu.svg" alt="menu" className="w-[24px] h-[24px]object-containe cursor-pointer" />
+      <img src="/menu.svg" alt="menu" className="w-[24px] h-[24px] object-containe cursor-pointer" />
     </div>
   </motion.nav>
 );
